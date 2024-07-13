@@ -135,6 +135,7 @@ csrc/
 # following switch can also be used:  urg -dir <coverage_directory>.vdb
 simv.vdb/
 urgReport/
+includes/db.php
 
 # DVE and UCLI related files.
 DVEfiles/
@@ -482,3 +483,5 @@ composer.phar
 # You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
 composer.lock
 
+docker-compose.yml
+Dockerfile
